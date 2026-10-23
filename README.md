@@ -93,6 +93,10 @@ The single-file package contains `MANIFEST.sha256`. Files are checked before ins
 
 All 20 embedded files were rechecked against `MANIFEST.sha256` for this release. This verifies consistency with the manifest, not later modifications to the downloaded file.
 
+### Source code
+
+The unpacked source payload is available under [`src/`](./src). It contains the installer PowerShell script, C# source files, bundled executables, icons, and manifest. The root ZIP remains the byte-exact distributable package.
+
 ### Version 1.6.1 highlights
 
 - Creates both ChatGPT and DeepSeek desktop shortcuts on the first installation
@@ -101,6 +105,10 @@ All 20 embedded files were rechecked against `MANIFEST.sha256` for this release.
 - Keeps icon and taskbar cache refreshes synchronous
 - Keeps error messages and redirected output available
 - Rolls back desktop shortcuts created by a failed installation
+
+### License
+
+This project is open source under the [MIT License](LICENSE).
 
 [Back to language links](#codex--deepseek-dual-model-switcher)
 
@@ -193,6 +201,10 @@ DA4CBEAF13406DA43DAC41B62113C825FEC74D7F48725E6EDCF0387A534D451E
 
 安装包内嵌的 20 个文件已按 `MANIFEST.sha256` 完整复核。此处仅证明当前发布文件与清单一致，不代表对其后任何修改的担保。
 
+### 源代码
+
+解包后的源码位于 [`src/`](./src)，包含安装脚本、C# 源文件、随包程序、图标和清单。根目录 ZIP 仍用于提供字节完全一致的发布文件。
+
 ### 1.6.1 更新
 
 - 首次安装时创建 ChatGPT、DeepSeek 两个桌面快捷方式
@@ -200,5 +212,9 @@ DA4CBEAF13406DA43DAC41B62113C825FEC74D7F48725E6EDCF0387A534D451E
 - 配置、校验和环境路由保存后，提前关闭快捷方式启动的独立控制台窗口
 - 图标与任务栏缓存仍会同步刷新，错误提示和重定向输出保持可用
 - 安装失败时会回滚本次新建的桌面快捷方式
+
+### 许可证
+
+本项目采用 [MIT License](LICENSE) 开源。
 
 [返回语言导航](#codex--deepseek-dual-model-switcher)
