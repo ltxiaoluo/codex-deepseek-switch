@@ -14,11 +14,17 @@
 
 ### 下载
 
-- [Codex双模型切换器-单文件管理版-1.6.1.cmd](./Codex双模型切换器-单文件管理版-1.6.1.cmd)
+- [Codex双模型切换器 1.6.1（ZIP 发布包，内含原始 CMD）](./Codex双模型切换器-单文件管理版-1.6.1.zip)
 - [离线使用说明](./使用说明.md)
 - [1.6.1 验证报告](./verification-1.6.1.json)
 
-SHA-256：
+ZIP SHA-256：
+
+```text
+FBF1D110DA025C6039CB22A026D04E70CD2C2260BFE03423B35017BE52B065FD
+```
+
+ZIP 内原始 CMD 的 SHA-256：
 
 ```text
 DA4CBEAF13406DA43DAC41B62113C825FEC74D7F48725E6EDCF0387A534D451E
@@ -44,7 +50,7 @@ DA4CBEAF13406DA43DAC41B62113C825FEC74D7F48725E6EDCF0387A534D451E
 ### 快速开始
 
 1. 完全退出 Codex 桌面端。
-2. 下载并双击 `Codex双模型切换器-单文件管理版-1.6.1.cmd`。
+2. 下载 ZIP 发布包，解压后双击 `Codex双模型切换器-单文件管理版-1.6.1.cmd`。
 3. 在菜单中选择 **1. 安装 / 更新**。
 4. 如需使用 DeepSeek，选择 **2. 设置 DeepSeek API Key**，在本地输入你自己的 Key。
 5. 从 `%USERPROFILE%\.codex\provider-switch` 将两个切换快捷方式固定到任务栏。
@@ -109,11 +115,17 @@ A Windows utility for managing two Codex model configurations from one portable 
 
 ### Download
 
-- [Codex dual-model switcher 1.6.1 (`.cmd`)](./Codex双模型切换器-单文件管理版-1.6.1.cmd)
+- [Codex dual-model switcher 1.6.1 (ZIP package containing the original `.cmd`)](./Codex双模型切换器-单文件管理版-1.6.1.zip)
 - [Offline Chinese guide](./使用说明.md)
 - [1.6.1 verification report](./verification-1.6.1.json)
 
-SHA-256:
+ZIP SHA-256:
+
+```text
+FBF1D110DA025C6039CB22A026D04E70CD2C2260BFE03423B35017BE52B065FD
+```
+
+SHA-256 of the original `.cmd` inside the ZIP:
 
 ```text
 DA4CBEAF13406DA43DAC41B62113C825FEC74D7F48725E6EDCF0387A534D451E
@@ -139,7 +151,7 @@ DA4CBEAF13406DA43DAC41B62113C825FEC74D7F48725E6EDCF0387A534D451E
 ### Quick start
 
 1. Fully exit the Codex desktop app.
-2. Download and double-click `Codex双模型切换器-单文件管理版-1.6.1.cmd`.
+2. Download the ZIP package, extract it, and double-click `Codex双模型切换器-单文件管理版-1.6.1.cmd`.
 3. Select **1. Install / Update**.
 4. To use DeepSeek, select **2. Set DeepSeek API Key** and enter your own key locally.
 5. Pin the two switcher shortcuts from `%USERPROFILE%\.codex\provider-switch` to the taskbar.
