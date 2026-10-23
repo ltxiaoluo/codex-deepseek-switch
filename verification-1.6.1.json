@@ -1,0 +1,21 @@
+{
+  "version": "1.6.1",
+  "sha256": "DA4CBEAF13406DA43DAC41B62113C825FEC74D7F48725E6EDCF0387A534D451E",
+  "bytes": 511066,
+  "firstInstallDesktopShortcuts": true,
+  "updateRespectsDeletedDesktopShortcuts": true,
+  "shortcutCollisionRollback": true,
+  "cleanUninstall": true,
+  "modelRoundTripsPassed": 4,
+  "guardCorruptionRejected": true,
+  "redirectedOutputPreserved": true,
+  "privateConsoleDetachedBeforeIconWork": true,
+  "synchronousIconWorkCompleted": true,
+  "singleFileStatusExit": 0,
+  "localInstallationUpdated": true,
+  "localVerifiedFiles": 15,
+  "localConfigUnchanged": true,
+  "localKeyUnchanged": true,
+  "note": "Console closes after configuration and route save, before synchronous icon refresh. No claim of total switch time reduction.",
+  "actualSingleFileMenuVersion": "1.6.1"
+}
