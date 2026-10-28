@@ -1,7 +1,7 @@
 {
   "version": "1.6.1",
-  "sha256": "DA4CBEAF13406DA43DAC41B62113C825FEC74D7F48725E6EDCF0387A534D451E",
-  "bytes": 511066,
+  "sha256": "4728B6DAE76CE4B8667CC07D212B894128FAE604E1F28C9C6526AC806D741A52",
+  "bytes": 506161,
   "firstInstallDesktopShortcuts": true,
   "updateRespectsDeletedDesktopShortcuts": true,
   "shortcutCollisionRollback": true,
