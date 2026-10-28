@@ -689,7 +689,7 @@ try {
         while ($true) {
             Write-Host ''
             Write-Host '============================================' -ForegroundColor DarkCyan
-            Write-Host ("  Codex / DeepSeek 双模型切换器 " + $script:Version) -ForegroundColor Cyan
+            Write-Host ("  Codex / DeepSeek 双模型切换器 " + $script:Version + "（小洛同学）") -ForegroundColor Cyan
             Write-Host '============================================' -ForegroundColor DarkCyan
             Write-Host '  1. 安装 / 更新'
             Write-Host '  2. 设置 DeepSeek API Key'
